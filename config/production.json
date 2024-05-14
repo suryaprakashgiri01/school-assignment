@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "DATABASE_NAME": "school",
+        "DB_USERNAME": "postgres",
+        "DB_PASSWORD": "surya",
+        "DB_HOST": "/production/db"
+    },
+    "port": 8080
+}
